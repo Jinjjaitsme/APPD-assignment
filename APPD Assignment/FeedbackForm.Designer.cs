@@ -68,9 +68,9 @@
             this.txtFeedback.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.txtFeedback.Size = new System.Drawing.Size(482, 373);
             this.txtFeedback.TabIndex = 2;
-            this.txtFeedback.Text = "Dear Valued Users , please give us your most honest\r\nopinion(s) about this applic" +
-    "ation ...";
-            this.txtFeedback.WordWrap = false;
+            this.txtFeedback.Text = "Dear Valued Users , please give us your most honest opinion(s) about this applica" +
+    "tion...";
+            this.txtFeedback.Click += new System.EventHandler(this.txtFeedback_Click);
             // 
             // btnClear
             // 
@@ -106,7 +106,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Name = "FeedbackForm";
             this.Text = "G.W Travel - Feedback Form";
-            this.Load += new System.EventHandler(this.FeedbackForm_Load);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FeedbackForm_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

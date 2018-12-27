@@ -8,5 +8,4 @@ c:\users\wei xian\documents\visual studio 2015\Projects\APPD Assignment\APPD Ass
 c:\users\wei xian\documents\visual studio 2015\Projects\APPD Assignment\APPD Assignment\obj\Debug\APPD Assignment.exe
 c:\users\wei xian\documents\visual studio 2015\Projects\APPD Assignment\APPD Assignment\obj\Debug\APPD Assignment.pdb
 C:\Users\Wei Xian\Documents\Visual Studio 2015\Projects\APPD Assignment\APPD Assignment\obj\Debug\APPD_Assignment.Map.resources
-C:\Users\Wei Xian\Documents\Visual Studio 2015\Projects\APPD Assignment\APPD Assignment\bin\Debug\Tulpep.NotificationWindow.dll
 C:\Users\Wei Xian\Documents\Visual Studio 2015\Projects\APPD Assignment\APPD Assignment\obj\Debug\APPD_Assignment.FeedbackForm.resources

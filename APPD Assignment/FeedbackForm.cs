@@ -17,10 +17,9 @@ namespace APPD_Assignment
             InitializeComponent();
         }
 
-        private void FeedbackForm_Load(object sender, EventArgs e)
+        private void FeedbackForm_FormClosing(object sender, FormClosingEventArgs e)
         {
-            txtFeedback.Text = txtFeedback.Text + "\r\n\r\n";
-            
+            MessageBox.Show("For more information , please do not hesitate to contact \r\nG.W_Travels@SMRT.org", "G.W Travel", MessageBoxButtons.OK);
         }
 
         private void btnClear_Click(object sender, EventArgs e)
@@ -40,6 +39,9 @@ namespace APPD_Assignment
             }
         }
 
-       
+        private void txtFeedback_Click(object sender, EventArgs e)
+        {
+            txtFeedback.Text = "";
+        }
     }
 }

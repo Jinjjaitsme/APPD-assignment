@@ -379,6 +379,7 @@
             // 
             // txtSummary
             // 
+            this.txtSummary.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSummary.Location = new System.Drawing.Point(403, 324);
             this.txtSummary.Multiline = true;
             this.txtSummary.Name = "txtSummary";

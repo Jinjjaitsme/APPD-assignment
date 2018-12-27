@@ -1,0 +1,12 @@
+c:\users\wei xian\documents\visual studio 2015\Projects\APPD Assignment\APPD Assignment\bin\Debug\APPD Assignment.exe.config
+c:\users\wei xian\documents\visual studio 2015\Projects\APPD Assignment\APPD Assignment\bin\Debug\APPD Assignment.exe
+c:\users\wei xian\documents\visual studio 2015\Projects\APPD Assignment\APPD Assignment\bin\Debug\APPD Assignment.pdb
+c:\users\wei xian\documents\visual studio 2015\Projects\APPD Assignment\APPD Assignment\obj\Debug\APPD Assignment.csprojResolveAssemblyReference.cache
+c:\users\wei xian\documents\visual studio 2015\Projects\APPD Assignment\APPD Assignment\obj\Debug\APPD_Assignment.Form1.resources
+c:\users\wei xian\documents\visual studio 2015\Projects\APPD Assignment\APPD Assignment\obj\Debug\APPD_Assignment.Properties.Resources.resources
+c:\users\wei xian\documents\visual studio 2015\Projects\APPD Assignment\APPD Assignment\obj\Debug\APPD Assignment.csproj.GenerateResource.Cache
+c:\users\wei xian\documents\visual studio 2015\Projects\APPD Assignment\APPD Assignment\obj\Debug\APPD Assignment.exe
+c:\users\wei xian\documents\visual studio 2015\Projects\APPD Assignment\APPD Assignment\obj\Debug\APPD Assignment.pdb
+C:\Users\Wei Xian\Documents\Visual Studio 2015\Projects\APPD Assignment\APPD Assignment\obj\Debug\APPD_Assignment.Map.resources
+C:\Users\Wei Xian\Documents\Visual Studio 2015\Projects\APPD Assignment\APPD Assignment\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Wei Xian\Documents\Visual Studio 2015\Projects\APPD Assignment\APPD Assignment\obj\Debug\APPD_Assignment.FeedbackForm.resources
